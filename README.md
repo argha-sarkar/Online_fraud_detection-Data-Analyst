@@ -70,7 +70,7 @@ Install Seaborn
     
 ## Share Screen
 
-![App Screenshot](https://raw.githubusercontent.com/argha-sarkar/Online_fraud_detection-Data-Analyst/main/image.png)](https://youtu.be/LmEdWYXMw40)
+![[image alt text]](https://raw.githubusercontent.com/argha-sarkar/Online_fraud_detection-Data-Analyst/main/image.png)] [link text](https://youtu.be/LmEdWYXMw40)
 
 
 ## Documentation
